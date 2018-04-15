@@ -7,12 +7,8 @@
       1. Test 
       
       
+   
       
-      
-![GitHub Logo](/images/logo.png)
-http://www.google.com
 
-As Kanye West said:
+https://www.google.com.au
 
-> We're living the future so
-> the present is our past.
